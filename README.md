@@ -21,3 +21,12 @@
   ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+  **Social Medias:**
+  
+  <div align="left">
+   <a href="https://www.linkedin.com/feed/?trk=BR-SEM_google-adwords_Jordan-brand-sign-up" alt="Linkedin"><img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
+  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>  
+  
