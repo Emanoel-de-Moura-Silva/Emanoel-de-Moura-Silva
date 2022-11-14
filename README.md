@@ -3,7 +3,7 @@
 
 - 🤔 Desenvolvendo projetos e buscando sempre evoluir 
 - 🎓 Estudante de Ciências da Computação na <a href=http://www.uece.br/>UECE </a>
-- 😄 Pronouns: ele/dele
+
 
 <div>
   <a href="https://github.com/Emanoel-de-Moura-Silva">
